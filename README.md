@@ -1,6 +1,6 @@
 ### Hi there 
 
-2nd year student at AI & Data Science // Ramaiah Institute of Technology
+3rd year student at AI & Data Science // Ramaiah Institute of Technology
 
 #### Stuff I do
 - Frontend - React, Next.js, TailwindCSS, and more..
